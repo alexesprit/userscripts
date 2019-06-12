@@ -4,6 +4,7 @@
 // @version      0.1
 // @description  Show now playing song in tab title
 // @author       alexesprit
+// @downloadURL  https://github.com/alexesprit/userscripts/raw/master/Spotify-Now-Playing.user.js
 // @icon         https://open.scdn.co/static/images/favicon.png
 // @match        https://open.spotify.com/*
 // @grant        none

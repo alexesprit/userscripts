@@ -4,6 +4,7 @@
 // @version      0.1
 // @description  Show now playing song in tab title
 // @author       alexesprit
+// @downloadURL  https://github.com/alexesprit/userscripts/raw/master/Pandora-Now-Playing.user.js
 // @icon         https://www.pandora.com/favicon.ico
 // @match        https://www.pandora.com/*
 // @grant        none

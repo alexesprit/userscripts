@@ -4,6 +4,7 @@
 // @version      0.1
 // @description  Show now playing song in tab title
 // @author       alexesprit
+// @downloadURL  https://github.com/alexesprit/userscripts/raw/master/Google-Play-Music-Sort-Artists.user.js
 // @icon         https://play-music.gstatic.com/fe/a378fe189aaa5edc65bb398051842c53/favicon_32x32.png
 // @match        https://play.google.com/music/listen
 // @grant        none
